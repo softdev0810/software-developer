@@ -206,6 +206,6 @@ Contributions, issues, comments and pull requests are welcome :)
     - Clean Code: A Handbook of Agile Software Craftmanship by Robert Martin
     - Head First Design Patterns by Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra
   - Investing books:
-    - The Millionaire Real Estate Investor by Gary Keller
-    - Rich Dad, Poor Dad by Robert Kiyosaki
-    - No-Hype Options Trading: Myths, Realities, and Strategies That Really Work by Kerry Given
+    - The Millionaire Real Estate Investor
+    - Rich Dad, Poor Dad
+    - No-Hype Options Trading: Myths, Realities, and Strategies That Really Work
